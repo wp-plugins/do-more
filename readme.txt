@@ -8,7 +8,7 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Do more with the `&lt;!--more--&gt;` Tag, make all links below the `<!--more-->` tag include the rel="nofollow" attribute.
+Do more with the `&lt;!--more--&gt;` Tag, make all links below the `&lt;!--more--&gt;` tag include the rel="nofollow" attribute.
 
 == Description ==
 
