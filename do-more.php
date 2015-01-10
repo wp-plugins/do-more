@@ -15,7 +15,7 @@ Change Log: See readme.txt for complete change log
 Contributors: Angelo Mandato, CIO RawVoice and host of the PluginsPodcast.com
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
 
-Copyright 2009-2012 Angelo Mandato, host of the Plugins Podcast (http://www.pluginspodcast.com)
+Copyright 2009-2015 Angelo Mandato, host of the Plugins Podcast (http://www.pluginspodcast.com)
  */
 
 if( !function_exists('add_action') )
